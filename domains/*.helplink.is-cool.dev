@@ -1,0 +1,14 @@
+{
+  "description": "Helplink: An open-source community-powered platform where users post help requests and nearby volunteers can respond instantly.",
+  "domain": "is-cool.dev",
+  "subdomain": "helplink",
+
+  "owner": {
+    "repo": "https://github.com/UpBeat25/register-1",
+    "email": "siddharth2539@gmail.com"
+  },
+
+  "record": {
+    "CNAME": ""
+  }
+}
